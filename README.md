@@ -14,6 +14,6 @@ Will work with three.js and X3DOM, at least.
 
 An AI with an avatar for virtual worlds on the open web.
 
-[ Interact with the 2016 model ](https://petegray.ca/idoru/) —>
+[ —> Interact with the 2016 model ](https://petegray.ca/idoru/) 
 
 
