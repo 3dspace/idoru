@@ -1,6 +1,6 @@
 # idoru
 
-This repository is for my ever-evolving side project at the corner of Conversational A.I. and User Experience Design.
+## This repository is for my ever-evolving side project at the corner of Conversational A.I. and User Experience Design.
 
 Inspired by ELIZA, the original chatter-bot, and Idoru, a character from William Gibson's Bridge Trilogy, I've tinkered over the years with making systems that not only communicate with end users, but seek to charm users through non-verbal and contextual behaviours that constitute "giving good user experience", and more to the point, "charm". ELIZA long ago surprised researchers by exposing a human willingness to be persuaded by a simple algorithm. Idoru developed her artificial charm and used it to escape from the dank confines of 3rd-party hardware.
 
