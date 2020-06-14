@@ -6,7 +6,7 @@ Inspired by ELIZA, the original chatter-bot, and Idoru, a character from William
 
 Since graduating from York University's Machine Learning Cerificate Program, I have begun tinkering again with charming chatbots, this time using Natural Language Processing, Language Models, deep neural networks using keras and TensorFlow, and harnessing the power of cloud-based GPUs to train models that would have been impossible a few years ago.
 
-# When this repository was created for JavaScript code in 2016, this was the description:
+## When this repository was created for JavaScript code in 2016, this was the description:
 
 A JavaScript library for creating artificially intelligent beings in virtual worlds.
 
