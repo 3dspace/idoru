@@ -8,10 +8,12 @@ Since graduating from York University's Machine Learning Cerificate Program, I h
 
 ## When this repository was created for JavaScript code in 2016, this was the description:
 
-[ Interact with the 2016 model ](https://petegray.ca/idoru/)
-
 A JavaScript library for creating artificially intelligent beings in virtual worlds.
 
 Will work with three.js and X3DOM, at least.
 
 An AI with an avatar for virtual worlds on the open web.
+
+[ Interact with the 2016 model ](https://petegray.ca/idoru/) —>
+
+
