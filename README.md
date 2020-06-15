@@ -4,7 +4,7 @@
 
 Inspired by ELIZA, the original chatter-bot, and Idoru, a character from William Gibson's Bridge Trilogy, I've tinkered over the years with making systems that not only communicate with end users, but seek to charm users through non-verbal and contextual behaviours that constitute "giving good user experience", and more to the point, "charm". ELIZA long ago surprised researchers by exposing a human willingness to be persuaded by a simple algorithm. Idoru developed her artificial charm and used it to escape from the dank confines of 3rd-party hardware.
 
-Since graduating from York University's Machine Learning Cerificate Program, I have begun tinkering again with charming chatbots, this time using Natural Language Processing, Language Models, deep neural networks using keras and TensorFlow, and harnessing the power of cloud-based GPUs to train models that would have been impossible a few years ago.
+Since graduating from York University's Machine Learning Cerificate Program, I have begun tinkering again with charming chatbots, this time using Natural Language Processing, Language Models, deep neural networks using keras and TensorFlow, and harnessing the power of cloud-based GPUs to train models that would have been impossible a few years ago. Not surprisingly, the theoretical payload of each course I took at York can be applied to this project. At the highest level, CRISP-DM is entirely appropriate and will be rigourously followed. Everything from problem definition to data cleaning to feature engineering to scaling up is perfectly applicable to this project I've been dabbling in, on and off, for a very long time.
 
 ## When this repository was created for JavaScript code in 2016, this was the description:
 
